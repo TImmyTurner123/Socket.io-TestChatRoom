@@ -12,3 +12,4 @@ npm run dev
 //Will start server and run it, this allows you to edit code
 //while server is running with the server automatically restarting
 
+https://www.youtube.com/watch?v=jD7FnbI76Hg
